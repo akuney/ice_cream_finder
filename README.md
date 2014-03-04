@@ -1,4 +1,4 @@
-ice_cream_finder
+Ice Cream Finder
 ================
 
 By Andre Kuney and Mickey Sanchez
